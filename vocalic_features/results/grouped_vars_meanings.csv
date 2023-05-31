@@ -1,0 +1,28 @@
+,PC,Value,
+F1amplitudeLogRelF0_sma3nz_stddevNorm,PC1,0.886042652,amplitude
+F2amplitudeLogRelF0_sma3nz_stddevNorm,PC1,0.861167092,
+spectralFlux_sma3_stddevNorm,PC1,0.788712402,
+StddevUnvoicedSegmentLength,PC1,0.563101892,
+F3amplitudeLogRelF0_sma3nz_amean,PC1,-0.928041341,
+F2amplitudeLogRelF0_sma3nz_amean,PC1,-0.936713251,
+F1amplitudeLogRelF0_sma3nz_amean,PC1,-0.947353828,
+slopeV0-500_sma3nz_amean,PC2,-0.529636986,pitch
+F3bandwidth_sma3nz_stddevNorm,PC2,-0.589738467,
+F2bandwidth_sma3nz_stddevNorm,PC2,-0.660428806,
+HNRdBACF_sma3nz_amean,PC2,-0.878939578,
+F0semitoneFrom27.5Hz_sma3nz_percentile20.0,PC2,-0.928880889,
+F0semitoneFrom27.5Hz_sma3nz_percentile80.0,PC2,-0.957880128,
+F0semitoneFrom27.5Hz_sma3nz_percentile50.0,PC2,-0.980066209,
+F0semitoneFrom27.5Hz_sma3nz_amean,PC2,-0.983170562,
+loudness_sma3_pctlrange0-2,PC3,0.927783898,
+loudness_sma3_meanRisingSlope,PC3,0.722484471,loudness
+loudness_sma3_stddevRisingSlope,PC3,0.599981987,
+mfcc2_sma3_amean,PC4,-0.89579722,spectral characteristics at higher frequency
+mfcc2V_sma3nz_amean,PC4,-0.937327606,
+mfcc1_sma3_stddevNorm,PC5,0.806320712,the variance of spectral change
+F1bandwidth_sma3nz_stddevNorm,PC5,0.776654586,
+F2frequency_sma3nz_stddevNorm,PC5,0.72603971,
+VoicedSegmentsPerSec,PC5,0.711848696,
+F3bandwidth_sma3nz_amean,PC6,-0.532758063,
+F2bandwidth_sma3nz_amean,PC6,-0.827842747,vowel sounds
+F1bandwidth_sma3nz_amean,PC6,-0.852542163,
